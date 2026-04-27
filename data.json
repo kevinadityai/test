@@ -219,184 +219,404 @@
         "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31244932_583692956.0_2.jpg",
         "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31244932_583692956.0_3.jpg"
     },
+    "30907030_675625280_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30907030_67562528.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31019042_582707420.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30947634_585368543.0_3.jpg"
+    },
+    "30908502_5849837690_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30908502_584983769.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30944483_56884349.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31190417_490209152.0_3.jpg"
+    },
+    "30925332_5765178260_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30925332_576517826.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31050420_66384280.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31008406_549623597.0_3.jpg"
+    },
+    "30932567_1928766910_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30932567_192876691.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31068850_560126783.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30943810_424240850.0_3.jpg"
+    },
+    "30933212_5541808010_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30933212_554180801.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30932567_192876691.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31073861_112021067.0_3.jpg"
+    },
+    "30938522_5537341160_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30938522_553734116.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966609_574841711.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31068850_560126783.0_3.jpg"
+    },
+    "30943810_4242408500_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30943810_424240850.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31009757_361318746.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31014770_504303492.0_3.jpg"
+    },
+    "30944483_568843490_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30944483_56884349.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31001418_510833358.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30933212_554180801.0_3.jpg"
+    },
+    "30947634_5853685430_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30947634_585368543.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31192427_585321521.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31244932_583692956.0_3.jpg"
+    },
+    "30955870_5240344760_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30955870_524034476.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30938522_553734116.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30963582_411139821.0_3.jpg"
+    },
+    "30957045_5355754560_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30957045_535575456.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30980070_585575441.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31167609_509520323.0_3.jpg"
+    },
+    "30963582_4111398210_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30963582_411139821.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31008406_549623597.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30980070_585575441.0_3.jpg"
+    },
+    "30966373_5354774260_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966373_535477426.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31017519_585826034.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31012900_585507761.0_3.jpg"
+    },
+    "30966609_5748417110_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966609_574841711.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31038116_505768871.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30955870_524034476.0_3.jpg"
+    },
+    "30971027_4798556790_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30971027_479855679.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30943810_424240850.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31092724_586231796.0_3.jpg"
+    },
+    "30980070_5855754410_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30980070_585575441.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30971027_479855679.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31209551_516060647.0_3.jpg"
+    },
+    "30982571_5807188880_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30982571_580718888.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31073861_112021067.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30938522_553734116.0_3.jpg"
+    },
+    "31001418_5108333580_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31001418_510833358.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31163450_584452895.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31009757_361318746.0_3.jpg"
+    },
+    "31005417_5266005090_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31005417_526600509.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31169590_581828453.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966373_535477426.0_3.jpg"
+    },
+    "31008406_5496235970_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31008406_549623597.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31024097_372959378.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30908502_584983769.0_3.jpg"
+    },
+    "31009757_3613187460_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31009757_361318746.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966373_535477426.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30932567_192876691.0_3.jpg"
+    },
+    "31012900_5855077610_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31012900_585507761.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31232443_489725562.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31024097_372959378.0_3.jpg"
+    },
+    "31014770_5043034920_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31014770_504303492.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31092724_586231796.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30907030_67562528.0_3.jpg"
+    },
+    "31017519_5858260340_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31017519_585826034.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30933212_554180801.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30925332_576517826.0_3.jpg"
+    },
+    "31019042_5827074200_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31019042_582707420.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30947634_585368543.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31001418_510833358.0_3.jpg"
+    },
+    "31024097_3729593780_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31024097_372959378.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31166311_585144866.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31230192_587188310.0_3.jpg"
+    },
+    "31038116_5057688710_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31038116_505768871.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30955870_524034476.0_2.jpg"
+    },
+    "31050420_663842800_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31050420_66384280.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31215141_474258229.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31056870_576671720.0_3.jpg"
+    },
+    "31056870_5766717200_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31056870_576671720.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30982571_580718888.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31050420_66384280.0_3.jpg"
+    },
+    "31068850_5601267830_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31068850_560126783.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31190417_490209152.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30966609_574841711.0_3.jpg"
+    },
+    "31073861_1120210670_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31073861_112021067.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31014770_504303492.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31166311_585144866.0_3.jpg"
+    },
+    "31079254_5837840090_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31079254_583784009.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30957045_535575456.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31005417_526600509.0_3.jpg"
+    },
+    "31092724_5862317960_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31092724_586231796.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31079254_583784009.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30957045_535575456.0_3.jpg"
+    },
+    "31163450_5844528950_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31163450_584452895.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31209551_516060647.0_2.jpg"
+    },
+    "31166311_5851448660_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31166311_585144866.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31056870_576671720.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31079254_583784009.0_3.jpg"
+    },
+    "31167609_5095203230_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31167609_509520323.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31244932_583692956.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31017519_585826034.0_3.jpg"
+    },
+    "31169590_5818284530_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31169590_581828453.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31005417_526600509.0_2.jpg"
+    },
+    "31190417_4902091520_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31190417_490209152.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30908502_584983769.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30982571_580718888.0_3.jpg"
+    },
+    "31192156_5853215210_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31192156_585321521.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31192156_585321521.0_2.jpg"
+    },
+    "31192427_5853215210_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31192427_585321521.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30925332_576517826.0_2.jpg"
+    },
+    "31209551_5160606470_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31209551_516060647.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30907030_67562528.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31232443_489725562.0_3.jpg"
+    },
+    "31215141_4742582290_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31215141_474258229.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31167609_509520323.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31215141_474258229.0_3.jpg"
+    },
+    "31230192_5871883100_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31230192_587188310.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31230192_587188310.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30971027_479855679.0_3.jpg"
+    },
+    "31232443_4897255620_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31232443_489725562.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30963582_411139821.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31019042_582707420.0_3.jpg"
+    },
+    "31244932_5836929560_shuffled": {
+        "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31244932_583692956.0_1.jpg",
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/31012900_585507761.0_2.jpg",
+        "selfie_2": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/30944483_56884349.0_3.jpg"
+    },
     "AI-10": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-10A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-10A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-10B.jpeg"
     },
     "AI-11": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-11A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-11A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-11B.png"
     },
     "AI-12": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-12A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-12A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-12B.png"
     },
     "AI-13": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-13A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-13A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-13B.png"
     },
     "AI-14": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-14A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-14A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-14B.png"
     },
     "AI-15": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-15A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-15A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-15B.png"
     },
     "AI-16": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-16A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-16A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-16B.png"
     },
     "AI-17": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-17A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-17A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-17B.png"
     },
     "AI-18": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-18A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-18A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-18B.png"
     },
     "AI-19": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-19A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-19A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-19B.png"
     },
     "AI-20": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-20A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-20A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-20B.png"
     },
     "AI-21": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-21A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-21A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-21B.png"
     },
     "AI-22": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-22A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-22A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-22B.png"
     },
     "AI-23": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-23A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-23A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-23B.png"
     },
     "AI-24": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-24A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-24A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-24B.png"
     },
     "AI-25": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-25A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-25A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-25B.png"
     },
     "AI-26": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-26A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-26A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-26B.png"
     },
     "AI-27": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-27A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-27A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-27B.png"
     },
     "AI-28": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-28A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-28A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-28B.png"
     },
     "AI-29": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-29A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-29A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-29B.png"
     },
     "AI-2": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-2A.jpg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-2A.jpg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-2B.jpg"
     },
     "AI-30": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-30A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-30A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-30B.png"
     },
     "AI-31": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-31A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-31A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-31B.png"
     },
     "AI-32": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-32A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-32A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-32B.png"
     },
     "AI-33": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-33A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-33A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-33B.png"
     },
     "AI-34": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-34A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-34A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-34B.png"
     },
     "AI-35": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-35A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-35A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-35B.png"
     },
     "AI-36": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-36A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-36A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-36B.png"
     },
     "AI-37": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-37A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-37A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-37B.png"
     },
     "AI-38": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-38A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-38A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-38B.png"
     },
     "AI-39": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-39A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-39A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-39B.png"
     },
     "AI-3": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-3A.jpg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-3A.jpg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-3B.jpg"
     },
     "AI-40": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-40A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-40A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-40B.png"
     },
     "AI-41": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-41A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-41A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-41B.png"
     },
     "AI-42": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-42A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-42A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-42B.png"
     },
     "AI-43": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-43A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-43A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-43B.png"
     },
     "AI-44": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-44A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-44A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-44B.png"
     },
     "AI-45": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-45A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-45A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-45B.png"
     },
     "AI-46": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-46A.png",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-46A.png"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-46B.png"
     },
     "AI-4": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-4A.jpg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-4A.jpg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-4B.jpg"
     },
     "AI-5": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-5A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-5A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-5B.jpeg"
     },
     "AI-6": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-6A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-6A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-6B.jpeg"
     },
     "AI-7": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-7A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-7A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-7B.jpeg"
     },
     "AI-8": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-8A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-8A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-8B.jpeg"
     },
     "AI-9": {
         "ktp": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-9A.jpeg",
-        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-9A.jpeg"
+        "selfie_1": "https://raw.githubusercontent.com/kevinadityai/test/refs/heads/main/AI-9B.jpeg"
     }
 }
